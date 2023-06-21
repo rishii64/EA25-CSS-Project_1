@@ -6,7 +6,7 @@ body{
     font-family: sans-serif;
     background-color: #F7F7F7;
     cursor: pointer;
-    height: 200vh;
+    height: 150vh;
 }
 .item_head{
     width: auto;
@@ -82,7 +82,7 @@ p{
     position: absolute;
     top: 0px;
     width: 100%;
-    height: 200vh;
+    height: 150vh;
     background-color: black;
     opacity: 0.6;
 }
